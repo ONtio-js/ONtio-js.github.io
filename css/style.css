@@ -416,7 +416,10 @@ button:focus {
     transition: all 0.5s;
     text-align: center;
 }
-
+li{
+    list-style-type: none;
+    text-transform: capitalize;
+}
 
 /*===========================
         6.SERVICES
